@@ -9,6 +9,7 @@ using namespace std;
 #include<string.h>
 
 //fcfs dependencies and function
+//i opened this on my machine 
 
 struct process{
 int burst;
